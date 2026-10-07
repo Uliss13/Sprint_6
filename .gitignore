@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+allure-results/
+.idea/
+.vscode/
+venv/
+.DS_Store
+geckodriver.log
